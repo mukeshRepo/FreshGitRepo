@@ -5,7 +5,7 @@ Hello  file-2
 
   hello ! file-2 of master branch all good
     
-      file-2 = 5000  # a varible is addeed 
+      file-22 = 700  # a varible is addeed 
 
 
       x = 100 # A varible is added and value is assigned 
