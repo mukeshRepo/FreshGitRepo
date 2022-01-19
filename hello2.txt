@@ -4,4 +4,6 @@ Hello  file-2
  this is file-2 of master branch
 
   hello ! file-2 of master branch all good
+    
+      file-2 = 5000  # a varible is addeed 
 
