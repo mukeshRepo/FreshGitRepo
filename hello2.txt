@@ -7,3 +7,5 @@ Hello  file-2
     
       file-2 = 5000  # a varible is addeed 
 
+
+      x = 100 # A varible is added and value is assigned 
