@@ -4,4 +4,6 @@ Hello  file-2
  this is file-2 of master branch
     #  today how r u feeling ?
 
-    ************ as added second line from git techteam 
+    ************ as added second line from git techteam
+
+       &&&&& this is added file into fole2 
