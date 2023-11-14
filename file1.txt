@@ -1,5 +1,0 @@
- 
-
-  this is first line for file -1 from master branch 
-
-     y = 500
